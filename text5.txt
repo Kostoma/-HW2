@@ -1,8 +1,8 @@
 <TEI>
-<teiHeader>  
+<teiHeader> А.А.Бестужев-Марлинский   
       <fileDesc>
             <titleStmt>
-               <title>А.А. Бестужев-Марлинский "Мулла-нур"</title>
+               <title>"Мулла-нур"</title>
             </titleStmt>
             <respStmt>
                 <persName>Ксюша Костомарова</persName>
