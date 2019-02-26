@@ -45,7 +45,7 @@
 <speech>
 <author_comment>Кичкене с негою во взоре обняла старушку: Искендер-беку послышалось, что она даже вздохнула; я не слыхал, я не уверю в этом. --</author_comment>
 <said type="direct" aloud="true"> Дядюшка Фетхали говорит, что я еще слишком молода,</said> 
-<author_comment>--<speech_verb>примолвила она</speech_verb> почти грустно.</author_comment>
+<author_comment>--<speech_verb>примолвила </speech_verb>она почти грустно.</author_comment>
 </speech>
 <speech>
 <said type="direct" aloud="true">А что говорит твое сердечко, малютка моя?</said>
