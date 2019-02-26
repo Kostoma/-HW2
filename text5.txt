@@ -21,5 +21,6 @@
 <speech><said type="direct" aloud="true"> Пришло три корабля с хлебом: народ веселится.</said> </author_comment></speech>
  <speech><said type="direct" aloud="true"> -- Если б пришли три корабля с мышьяком на отраву всем дербентцам, я бы радовался один более, чем теперь они все вместе.</said>
 </speech>
+
 </text>
 </TEI>
