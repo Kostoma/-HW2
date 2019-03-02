@@ -53,18 +53,20 @@
 </speech>
 
 <speech>
-<author_comment>Но старушка была догадлива и хотела кой для кого превратить эту догадку в уверенность.<author_comment>
+Но старушка была догадлива и хотела кой для кого превратить эту догадку в уверенность.
 <said type="direct" aloud="true">-- О, ты мой гюл ииси (ты мой запах розы)!</said>
-<author_comment>- <speech_verb>сказала</speech_verb> она, играя кольцами на мизинце Кичкени.</author_comment>
+</speech>
+<speech><author_comment>- <speech_verb>сказала</speech_verb> она, играя кольцами на мизинце Кичкени.</author_comment>
 <said type="direct" aloud="true">-- Если б мой племянник Искендер-бек услыхал хоть за стеной твою песню, он бы разбил стену грудью, чтобы увидать певицу; а если б увидал, то похитил бы тебя, как лев серну.</said>
 </speech>
 
 <speech>
 <author_comment> Искендер углубился в размышление,</author_comment> 
-<said type="direct" aloud="false">как это надо?</said> 
+</speech>
+<speech><said type="direct" aloud="false">как это надо?</said></speech> 
 А перед ним давно уже<speech_verb>стоял</speech_verb>Гаджи-Юсуф. Право, за вычетом хвастовства и трусости, этот Гаджи-Юсуф был предоброе создание. Горесть товарища тронула его: если б умел, он бы заплакал, глядя на безмолвную задумчивость Искендера. Он тихо коснулся плеча хозяина и, хотя разодет был как свежепривозный кашенг, франт из Тебриза, однако сказал свой селям самым степенным голосом.
-<said type="direct" aloud="true"> -- На хабер (что нового)?</said> 
-<author_comment> <speech_verb>спросил </speech_verb>очнувшийся Искендер.</author_comment>
+<speech><said type="direct" aloud="true"> -- На хабер (что нового)?</said></speech> 
+<speech><author_comment> <speech_verb>спросил </speech_verb>очнувшийся Искендер.</author_comment>
 </speech>
 <speech>
 <said type="direct" aloud="true"> Пришло три корабля с хлебом: народ веселится.</said>
