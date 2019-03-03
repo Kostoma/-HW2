@@ -9,6 +9,15 @@
 <resp>Что делал с документов (создание TEI документа, выделение в тексте персоналий/мест)</resp>
 </respStmt>
 </fileDesc>
+<profileDesc> Иоанн, Феогност
+             <particDesc>
+                 <listPerson type="historical">   
+                     <person xml:id="И">    
+                         <persName>Иоанн</persName> 
+                     </person>
+                 </listPerson>
+              </particDesc>
+          </profileDesc>
 </teiHeader>
 <text>   
 И, славы чад своих последний видя час,
